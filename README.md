@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Javier</h1>
+<h3 align="center">Hello, I'm Javier a Software Engineer (Full-Stack)
+with knowledge in web and mobile applications. I specialize in React and NestJS. I also have experience working with AWS services and Terraform.</h3>
 
-<!--
-**JavierLQR/JavierLQR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **javier.fullstack.qr@gmail.com**
 
-Here are some ideas to get you started:
+- 📫 Available to work**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rodrigo-rumpler-287989209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Javier" height="30" width="40" /></a>
+</p>
+
+<a href="mailto:javier.fullstack.qr@gmail.com" target="blank" > <img src="https://img.icons8.com/?size=64&id=44829&format=png" style="width:40px" /> </a>
+
+<h2 >Languages and Tools 👨🏻‍💻</h2>
+<hr/
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nestjs,postgresql,mongodb,git,tailwind,prisma,docker,aws,redis,rabbitmq,kubernetes,terraform,kafka" />
+  </a>
+</p>
+<hr/>
+<div style="display: flex">
+     <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" style="width: 80px" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" style="width: 80px" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeTgWr8bzyCXEwxAE3ssmDM6cvl_GYgivQDg&s" style="width: 80px" style="height: 200px"  />
+    
+</div>
+
+
+
+
+<!--tech stack icons-->
