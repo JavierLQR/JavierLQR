@@ -9,7 +9,7 @@ with knowledge in web and mobile applications. I specialize in React and NestJS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rodrigo-rumpler-287989209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Javier" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/javier-rojas-287989209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Javier" height="30" width="40" /></a>
 </p>
 
 <a href="mailto:javier.fullstack.qr@gmail.com" target="blank" > <img src="https://img.icons8.com/?size=64&id=44829&format=png" style="width:40px" /> </a>
