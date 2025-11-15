@@ -18,7 +18,7 @@ with knowledge in web and mobile applications. I specialize in React and NestJS.
 <hr/
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nestjs,postgresql,mongodb,git,tailwind,prisma,docker,aws,redis,rabbitmq,kubernetes,terraform,kafka,jest,githubactions,graphql" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nestjs,postgresql,mongodb,git,tailwind,prisma,docker,aws,redis,rabbitmq,kubernetes,terraform,kafka,jest,githubactions,graphql,nginx" />
   </a>
 </p>
 <hr/>
