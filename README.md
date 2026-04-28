@@ -50,6 +50,7 @@ Focused on **end-to-end development**, from system design to production deployme
 <p>
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/LocalStack-4B32C3?style=for-the-badge&logo=localstack&logoColor=white" />
+  <img src="[https://img.shields.io/badge/LocalStack-4B32C3?style=for-the-badge&logo=localstack&logoColor=white](https://smcodes.com/wp-content/uploads/2024/12/localstack.png)" />
 </p>
 
 </p>
