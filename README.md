@@ -98,8 +98,6 @@ AI-powered financial platform with async pipelines and real-time features.
 - OAuth2 authentication & real-time notifications  
 - Voice transcription with Deepgram  
 
-🔗 [Repository](#)
-
 </td>
 <td width="50%">
 
@@ -107,14 +105,12 @@ AI-powered financial platform with async pipelines and real-time features.
 
 AI system for CV analysis and job matching.
 
-**Tech:** NestJS · Next.js · PostgreSQL · Prisma · TanStack Query  
+**Tech:** NestJS · Next.js · PostgreSQL · Prisma ·
 
 - AI CV analysis (ChatGPT & Gemini)  
 - Subscription system with credits  
 - PDF generation & dynamic CV templates  
 - Scraping automation with Playwright  
-
-🔗 [Repository](#)
 
 </td>
 </tr>
@@ -133,12 +129,10 @@ Event-driven ecommerce platform with CQRS architecture.
 - Redis caching (50% faster load time)  
 - Deployment on AWS (EKS, ECR, RDS)  
 
-🔗 [Repository](#)
-
 </td>
 <td width="50%">
 
-### ⚙️ GraphQL Platform (Aptura Labs)
+### ⚙️ GraphQL Platform 
 
 Scalable GraphQL APIs with optimized frontend integration.
 
@@ -149,7 +143,6 @@ Scalable GraphQL APIs with optimized frontend integration.
 - CI/CD pipelines with GitHub Actions  
 - 40% fewer production errors  
 
-🔗 [Repository](#)
 
 </td>
 </tr>
