@@ -39,7 +39,7 @@ I enjoy turning complex problems into **simple, efficient, and maintainable solu
 ## 🧠 Core Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,ts" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,ts,nodejs" />
 </p>
 
 ---
@@ -47,15 +47,21 @@ I enjoy turning complex problems into **simple, efficient, and maintainable solu
 ## ⚙️ Backend & Architecture
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,graphql,nginx,rabbitmq,kafka" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,graphql,nginx,kafka,rabbitmq" />
 </p>
 
 ---
 
-## ☁️ Cloud & DevOps
+## ☁️ Cloud, Serverless & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" />
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions" />
+
+  <!-- High-signal extras -->
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" width="45" />
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-sqs.svg" width="45" />
+  <img src="https://avatars.githubusercontent.com/u/73955053?s=200&v=4" width="45" /> <!-- LocalStack -->
 </p>
 
 ---
@@ -74,12 +80,8 @@ I enjoy turning complex problems into **simple, efficient, and maintainable solu
   <img src="https://skillicons.dev/icons?i=tailwind,js" />
 </p>
 
----
-
-## 🧩 Additional Tools
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" style="width: 60px" />
+  <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" width="45" />
 </p>
 
 ---
@@ -103,9 +105,9 @@ I enjoy turning complex problems into **simple, efficient, and maintainable solu
 
 Full stack platform built with a microservices architecture designed for scalability and maintainability.
 
-- ⚙️ Tech: NestJS, Docker, Kubernetes, AWS, PostgreSQL  
-- 🚀 Features: Auth service, API Gateway, message queues (Kafka)  
-- 📈 Impact: Designed to support scalable distributed systems  
+- ⚙️ Tech: NestJS, Kafka, Docker, Kubernetes, AWS  
+- 🚀 Features: API Gateway, event-driven architecture, message queues  
+- 📈 Impact: Designed for scalable distributed systems  
 
 🔗 [Repository](#)
 
@@ -113,23 +115,23 @@ Full stack platform built with a microservices architecture designed for scalabi
 
 ### ⚡ Full Stack Web Application
 
-Modern web application with optimized performance and clean architecture.
+Modern web application focused on performance and user experience.
 
 - ⚙️ Tech: Next.js, React, TailwindCSS, NestJS  
 - 🚀 Features: Authentication, responsive UI, API integration  
-- 📈 Impact: Improved performance and user experience  
+- 📈 Impact: Improved performance and UX  
 
 🔗 [Repository](#)
 
 ---
 
-### ☁️ Cloud Infrastructure Setup
+### ☁️ Cloud Infrastructure (IaC)
 
-Infrastructure as Code project for deploying scalable applications.
+Infrastructure as Code project for scalable cloud deployments.
 
-- ⚙️ Tech: AWS, Terraform, Docker  
-- 🚀 Features: Automated deployments, scalable environments  
-- 📈 Impact: Simplified infrastructure management  
+- ⚙️ Tech: AWS, Terraform, Docker, LocalStack  
+- 🚀 Features: Automated infrastructure, local cloud simulation  
+- 📈 Impact: Faster development and safer deployments  
 
 🔗 [Repository](#)
 
@@ -139,8 +141,8 @@ Infrastructure as Code project for deploying scalable applications.
 
 - Building scalable microservices architectures  
 - Designing clean and maintainable codebases  
-- Optimizing performance and user experience  
-- Deploying cloud-native applications on AWS  
+- Event-driven systems (Kafka, messaging)  
+- Cloud-native & serverless applications (AWS, Lambda)  
 
 ---
 
