@@ -11,7 +11,7 @@ I'm a passionate Full-Stack Software Engineer specialized in building scalable w
 
 - 📧 **javier.fullstack.qr@gmail.com**
 - 🌍 Open to new opportunities / Freelance / Relocation
-- Portfolio: [javierrojas.netlify.app](https://javierrojas.netlify.app) (si tienes)
+- Portfolio: [javierrojas.netlify.app](https://javierojas.netlify.app/es/)
 
 ---
 
