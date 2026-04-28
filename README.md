@@ -1,87 +1,60 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 
 <h3 align="center">
-Full Stack Engineer building scalable web applications with React, Next.js & NestJS on AWS
+Full Stack Engineer | React · Next.js · NestJS · AWS · Microservices
 </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a Full Stack Engineer focused on building **scalable, high-performance applications** using modern web technologies.
+Full Stack Engineer focused on building scalable, high-performance web applications.
 
-I specialize in **React, Next.js, and NestJS**, designing clean architectures and microservices deployed on **AWS using Terraform**.
-
-I enjoy turning complex problems into **simple, efficient, and maintainable solutions** — from frontend UX to backend scalability.
+I specialize in **React, Next.js, NestJS, AWS, Terraform, microservices and event-driven systems**.
 
 ---
 
 ### 📩 Contact
 
-- 📧 Email: **javier.fullstack.qr@gmail.com**
-- 💼 Open to full-time & freelance opportunities
-
----
-
-### 🤝 Connect with me
+- 📧 **Email:** javier.fullstack.qr@gmail.com
+- 💼 **Open to full-time & freelance opportunities**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/javier-rojas-287989209/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" />
 </a>
 <a href="mailto:javier.fullstack.qr@gmail.com" target="blank">
-<img src="https://img.icons8.com/?size=64&id=44829&format=png" style="width:40px" />
+<img src="https://img.icons8.com/?size=64&id=44829&format=png" width="35" />
 </a>
 </p>
 
 ---
 
-## 🧠 Core Stack
+## 🧰 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,ts,nodejs" />
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="45" title="TanStack Query" />
+  <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" width="45" title="Zustand" />
 </p>
 
----
-
-## ⚙️ Backend & Architecture
-
-<p align="left">
+### Backend & Architecture
+<p>
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,graphql,nginx,kafka,rabbitmq" />
 </p>
 
----
-
-## ☁️ Cloud, Serverless & DevOps
-
-<p align="left">
-  <!-- Core -->
+### Cloud & DevOps
+<p>
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions" />
-
-  <!-- High-signal extras -->
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" width="45" />
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-sqs.svg" width="45" />
-  <img src="https://avatars.githubusercontent.com/u/73955053?s=200&v=4" width="45" /> <!-- LocalStack -->
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" width="45" title="AWS Lambda" />
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-sqs.svg" width="45" title="Amazon SQS" />
+  <img src="https://avatars.githubusercontent.com/u/73955053?s=200&v=4" width="45" title="LocalStack" />
 </p>
 
----
-
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma" />
-</p>
-
----
-
-## 🎨 Frontend & UI
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,js" />
-</p>
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" width="45" />
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma,jest,git,bitbucket" />
 </p>
 
 ---
@@ -89,60 +62,77 @@ I enjoy turning complex problems into **simple, efficient, and maintainable solu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierLQR&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JavierLQR&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierLQR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierLQR&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierLQR&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Scalable Microservices Platform
+<table>
+<tr>
+<td width="50%">
 
-Full stack platform built with a microservices architecture designed for scalability and maintainability.
+### 🧠 Microservices Platform
 
-- ⚙️ Tech: NestJS, Kafka, Docker, Kubernetes, AWS  
-- 🚀 Features: API Gateway, event-driven architecture, message queues  
-- 📈 Impact: Designed for scalable distributed systems  
+Scalable backend architecture using NestJS, Kafka, Docker and AWS.
 
-🔗 [Repository](#)
-
----
-
-### ⚡ Full Stack Web Application
-
-Modern web application focused on performance and user experience.
-
-- ⚙️ Tech: Next.js, React, TailwindCSS, NestJS  
-- 🚀 Features: Authentication, responsive UI, API integration  
-- 📈 Impact: Improved performance and UX  
+**Tech:** NestJS · Kafka · Docker · AWS · PostgreSQL  
 
 🔗 [Repository](#)
 
----
+</td>
+<td width="50%">
 
-### ☁️ Cloud Infrastructure (IaC)
+### ⚡ Full Stack App
 
-Infrastructure as Code project for scalable cloud deployments.
+Modern web application focused on performance and clean architecture.
 
-- ⚙️ Tech: AWS, Terraform, Docker, LocalStack  
-- 🚀 Features: Automated infrastructure, local cloud simulation  
-- 📈 Impact: Faster development and safer deployments  
+**Tech:** Next.js · React · TanStack Query · NestJS  
 
 🔗 [Repository](#)
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ☁️ Cloud Infrastructure
+
+Infrastructure as Code setup for cloud-native deployments.
+
+**Tech:** AWS · Terraform · Docker · LocalStack  
+
+🔗 [Repository](#)
+
+</td>
+<td width="50%">
+
+### 📦 Event-Driven System
+
+Async communication system using queues and messaging.
+
+**Tech:** SQS · Kafka · RabbitMQ · NestJS  
+
+🔗 [Repository](#)
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 What I focus on
+## 🎯 Focus
 
-- Building scalable microservices architectures  
-- Designing clean and maintainable codebases  
-- Event-driven systems (Kafka, messaging)  
-- Cloud-native & serverless applications (AWS, Lambda)  
+- Scalable web applications  
+- Microservices architecture  
+- Cloud-native development  
+- Event-driven systems  
+- Clean and maintainable code  
 
 ---
 
