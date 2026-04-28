@@ -45,9 +45,9 @@ Focused on **end-to-end development**, from system design to production deployme
 
   <!-- Cloud -->
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions" />
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS Lambda" />
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="Amazon SQS" />
-  <img src="https://avatars.githubusercontent.com/u/73955053?s=200&v=4" width="40" title="LocalStack" />
+  
+<!-- Solo esto extra -->
+<img src="https://avatars.githubusercontent.com/u/73955053?s=200&v=4" width="40" title="LocalStack" />
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma,jest,git" />
