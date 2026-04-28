@@ -8,15 +8,17 @@ Full Stack Engineer | React · Next.js · NestJS · AWS · Microservices
 
 ### 👨‍💻 About Me
 
-Full Stack Engineer focused on building scalable, high-performance web applications.
+Full Stack Engineer with 2+ years building scalable web applications.
 
-I specialize in **React, Next.js, NestJS, AWS, Terraform, microservices and event-driven systems**.
+I specialize in **React, Next.js, and NestJS**, with strong experience in **microservices, CQRS, and event-driven architectures**.
+
+Focused on **end-to-end development**, from system design to production deployment on AWS using CI/CD and Infrastructure as Code.
 
 ---
 
 ### 📩 Contact
 
-- 📧 **Email:** javier.fullstack.qr@gmail.com
+- 📧 **Email:** javier.fullstack.qr@gmail.com  
 - 💼 **Open to full-time & freelance opportunities**
 
 <p align="left">
@@ -35,22 +37,30 @@ I specialize in **React, Next.js, NestJS, AWS, Terraform, microservices and even
 ### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
-  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="45" title="TanStack Query" />
-  <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" width="45" title="Zustand" />
+  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="40" title="TanStack Query" />
+  <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" width="40" title="Zustand" />
 </p>
+
+---
 
 ### Backend & Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,graphql,nginx,kafka,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,graphql,nginx,rabbitmq" />
 </p>
 
-### Cloud & DevOps
+---
+
+### Cloud, Serverless & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions" />
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-lambda-1.svg" width="45" title="AWS Lambda" />
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-sqs.svg" width="45" title="Amazon SQS" />
-  <img src="https://avatars.githubusercontent.com/u/73955053?s=200&v=4" width="45" title="LocalStack" />
+
+  <!-- Stable icons -->
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS Lambda" />
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="Amazon SQS" />
+  <img src="https://avatars.githubusercontent.com/u/73955053?s=200&v=4" width="40" title="LocalStack" />
 </p>
+
+---
 
 ### Databases & Tools
 <p>
@@ -77,46 +87,67 @@ I specialize in **React, Next.js, NestJS, AWS, Terraform, microservices and even
 <tr>
 <td width="50%">
 
-### 🧠 Microservices Platform
+### 🧠 AI Financial Platform (Qora Credit)
 
-Scalable backend architecture using NestJS, Kafka, Docker and AWS.
+AI-powered financial platform with async pipelines and real-time features.
 
-**Tech:** NestJS · Kafka · Docker · AWS · PostgreSQL  
+**Tech:** NestJS · Next.js · MongoDB · Redis · BullMQ · LangChain · Pusher  
+
+- Async processing with queues (BullMQ + Redis)  
+- Multi-AI integration (OpenAI, Gemini, Claude)  
+- OAuth2 authentication & real-time notifications  
+- Voice transcription with Deepgram  
 
 🔗 [Repository](#)
 
 </td>
 <td width="50%">
 
-### ⚡ Full Stack App
+### 📄 CV Matcher (AI SaaS)
 
-Modern web application focused on performance and clean architecture.
+AI system for CV analysis and job matching.
 
-**Tech:** Next.js · React · TanStack Query · NestJS  
+**Tech:** NestJS · Next.js · PostgreSQL · Prisma · TanStack Query  
+
+- AI CV analysis (ChatGPT & Gemini)  
+- Subscription system with credits  
+- PDF generation & dynamic CV templates  
+- Scraping automation with Playwright  
 
 🔗 [Repository](#)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### ☁️ Cloud Infrastructure
+### 🛒 Distributed Ecommerce (Microservices)
 
-Infrastructure as Code setup for cloud-native deployments.
+Event-driven ecommerce platform with CQRS architecture.
 
-**Tech:** AWS · Terraform · Docker · LocalStack  
+**Tech:** NestJS · Next.js · PostgreSQL · MongoDB · RabbitMQ · Redis · AWS  
+
+- Microservices + CQRS architecture  
+- Stripe payments with async processing  
+- Redis caching (50% faster load time)  
+- Deployment on AWS (EKS, ECR, RDS)  
 
 🔗 [Repository](#)
 
 </td>
 <td width="50%">
 
-### 📦 Event-Driven System
+### ⚙️ GraphQL Platform (Aptura Labs)
 
-Async communication system using queues and messaging.
+Scalable GraphQL APIs with optimized frontend integration.
 
-**Tech:** SQS · Kafka · RabbitMQ · NestJS  
+**Tech:** NestJS · Next.js · GraphQL · MongoDB · AWS  
+
+- Reduced over-fetching using GraphQL  
+- RBAC authentication system  
+- CI/CD pipelines with GitHub Actions  
+- 40% fewer production errors  
 
 🔗 [Repository](#)
 
@@ -130,8 +161,8 @@ Async communication system using queues and messaging.
 
 - Scalable web applications  
 - Microservices architecture  
-- Cloud-native development  
-- Event-driven systems  
+- Event-driven systems (RabbitMQ, queues)  
+- Cloud-native development (AWS)  
 - Clean and maintainable code  
 
 ---
