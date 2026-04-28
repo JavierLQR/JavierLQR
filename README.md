@@ -34,37 +34,23 @@ Focused on **end-to-end development**, from system design to production deployme
 
 ## 🧰 Tech Stack
 
-### Frontend
 <p>
+  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
   <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="40" title="TanStack Query" />
   <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" width="40" title="Zustand" />
-</p>
 
----
-
-### Backend & Architecture
-<p>
+  <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,graphql,nginx,rabbitmq" />
-</p>
 
----
-
-### Cloud, Serverless & DevOps
-<p>
+  <!-- Cloud -->
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions" />
-
-  <!-- Stable icons -->
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS Lambda" />
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="Amazon SQS" />
   <img src="https://avatars.githubusercontent.com/u/73955053?s=200&v=4" width="40" title="LocalStack" />
-</p>
 
----
-
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma,jest,git,bitbucket" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma,jest,git" />
 </p>
 
 ---
@@ -72,11 +58,8 @@ Focused on **end-to-end development**, from system design to production deployme
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavierLQR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierLQR&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JavierLQR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavierLQR&layout=compact&theme=tokyonight&hide_border=true" height="140" />
 </p>
 
 ---
@@ -105,7 +88,7 @@ AI-powered financial platform with async pipelines and real-time features.
 
 AI system for CV analysis and job matching.
 
-**Tech:** NestJS · Next.js · PostgreSQL · Prisma ·
+**Tech:** NestJS · Next.js · PostgreSQL · Prisma · TanStack Query  
 
 - AI CV analysis (ChatGPT & Gemini)  
 - Subscription system with credits  
@@ -132,7 +115,7 @@ Event-driven ecommerce platform with CQRS architecture.
 </td>
 <td width="50%">
 
-### ⚙️ GraphQL Platform 
+### ⚙️ GraphQL Platform
 
 Scalable GraphQL APIs with optimized frontend integration.
 
@@ -142,7 +125,6 @@ Scalable GraphQL APIs with optimized frontend integration.
 - RBAC authentication system  
 - CI/CD pipelines with GitHub Actions  
 - 40% fewer production errors  
-
 
 </td>
 </tr>
