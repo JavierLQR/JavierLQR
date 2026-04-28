@@ -45,7 +45,7 @@ Focused on **end-to-end development**, from system design to production deployme
 
   <!-- Cloud -->
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions" />
-  <img src="https://cdn.simpleicons.org/awslambda/FF9900" width="40" title="AWS Lambda"/>
+  <img src="https://cdn.simpleicons.org/awslambda/FF9900" width="40" title="Lambda"/>
 <!-- Solo esto extra -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="0"/>
 
