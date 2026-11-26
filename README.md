@@ -123,16 +123,16 @@ Event-driven ecommerce platform with CQRS architecture.
 </td>
 <td width="50%">
 
-### ⚙️ GraphQL Platform
+### ⚙️ Startup Directory (GraphQL API)
 
-Scalable GraphQL APIs with optimized frontend integration.
+GraphQL backend for a startup directory, built from scratch.
 
-**Tech:** NestJS · Next.js · GraphQL · MongoDB · AWS  
+**Tech:** NestJS · Next.js · GraphQL · MongoDB · AWS S3  
 
-- Reduced over-fetching using GraphQL  
-- RBAC authentication system  
-- CI/CD pipelines with GitHub Actions  
-- 40% fewer production errors  
+- 8 modules: auth, users, roles, startups, categories, files, contact, emails  
+- JWT authentication with roles and password recovery  
+- File uploads to AWS S3 and transactional emails  
+- Deployed on DigitalOcean with nginx, PM2 and Bitbucket Pipelines
 
 </td>
 </tr>
