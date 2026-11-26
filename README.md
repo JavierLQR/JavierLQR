@@ -117,7 +117,7 @@ Event-driven ecommerce platform with CQRS architecture.
 
 - Microservices + CQRS architecture  
 - Stripe payments with async processing  
-- Redis caching (50% faster load time)  
+- Redis caching
 - Deployment on AWS (EKS, ECR, RDS)  
 
 </td>
