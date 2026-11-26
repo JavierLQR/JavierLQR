@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 
 <h3 align="center">
-Full Stack Engineer | React · Next.js · NestJS · AWS · Microservices
+Full Stack Engineer · NestJS + React/Next.js · Event-driven systems · AI (LangChain) · AWS
 </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-Full Stack Engineer with 2+ years building scalable web applications.
+Full Stack Engineer with 3 years of experience building web applications end to end, with a focus on backend and architecture.
 
-I specialize in **React, Next.js, and NestJS**, with strong experience in **microservices, CQRS, and event-driven architectures**.
+I specialize in **NestJS, React and Next.js**, designing APIs and **event-driven systems** (queues, transactional outbox, microservices) and integrating AI models with LangChain.
 
 Focused on **end-to-end development**, from system design to production deployment on AWS using CI/CD and Infrastructure as Code.
 
