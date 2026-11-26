@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
 
 <h3 align="center">
-Full Stack Engineer · NestJS + React/Next.js · Event-driven systems · AI (LangChain) · AWS
+Full Stack Engineer · NestJS + React/Next.js · Microservices & Event-driven · AI Integration (LangChain) · AWS
 </h3>
 
 ---
