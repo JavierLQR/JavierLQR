@@ -40,25 +40,18 @@ I take projects from system design to production on AWS, using CI/CD (GitHub Act
 ## 🧰 Tech Stack
 
 <p>
-  <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
   <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" width="40" title="TanStack Query" />
   <img src="https://raw.githubusercontent.com/github/explore/990a9efe0b9529eca38ca9e081bc7a97b18dff45/topics/zustand/zustand.png" width="40" title="Zustand" />
-
-  <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nestjs,nodejs,graphql,nginx,rabbitmq" />
-  <!-- Cloud -->
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions" />
-  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma,jest,git" />
-<!-- Solo esto extra -->
+</p>
 <p>
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon%20SNS-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/LocalStack-4B32C3?style=for-the-badge&logo=localstack&logoColor=white" />
-</p>
-
 </p>
 
 ---
@@ -142,12 +135,11 @@ GraphQL backend for a startup directory, built from scratch.
 
 ## 🎯 Focus
 
-- Scalable web applications  
+- Backend architecture and API design  
+- Event-driven systems (queues, outbox, SNS/SQS)  
 - Microservices architecture  
-- Event-driven systems (RabbitMQ, queues)  
 - Cloud-native development (AWS)  
-- Clean and maintainable code  
-
+- Clean and maintainable code
 ---
 
 ⭐ From [Javier](https://github.com/JavierLQR)
