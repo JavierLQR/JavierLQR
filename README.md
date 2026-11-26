@@ -8,11 +8,16 @@ Full Stack Engineer · NestJS + React/Next.js · Microservices & Event-driven ·
 
 ### 👨‍💻 About Me
 
-Full Stack Engineer with 3 years of experience building web applications end to end, with a focus on backend and architecture.
+Full Stack Engineer with 3 years of experience, focused on backend and architecture.
 
 I specialize in **NestJS, React and Next.js**, designing APIs and **event-driven systems** (queues, transactional outbox, microservices) and integrating AI models with LangChain.
 
-Focused on **end-to-end development**, from system design to production deployment on AWS using CI/CD and Infrastructure as Code.
+I take projects from system design to production on AWS, using CI/CD (GitHub Actions) and Infrastructure as Code (Terraform).
+
+**Recent work**
+- Built from scratch the backend of a health-loan product for a fintech: 37 endpoints, lender integration and a transactional outbox (NestJS · Prisma · PostgreSQL · BullMQ)
+- Worked on the biometric identity verification flow of an e-signature platform (React · TypeScript · AWS Lambda)
+- Designed a modular NestJS backend with an async pipeline and multi-provider AI extraction (LangChain · BullMQ · MongoDB)
 
 ---
 
